@@ -8,4 +8,4 @@ RUN npm install express
 
 EXPOSE 8086
 
-CMD ["node", "index.jsl"]
+CMD ["node", "index.js"]
